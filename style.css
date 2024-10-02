@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100;
+    height: 100%;
+    background-color: deepskyblue;
+}
+
+#logo{
+
+    padding: 15px;
+}
+
+/*==================================== AFRICA =====================================*/
+
+#africa-drop{
+    position: absolute;
+    left: 437px;
+    top: 262px;
+}
+
+#africa-draggable{
+    position: absolute;
+    left: -30px;
+    bottom: 0;
+    transform: scale(0.3);
+}
+
+/*==================================== ASIA =====================================*/
+
+#asia-drop{
+    position: absolute;
+    left: 539px;
+    top: 40px;
+}
+
+#asia-draggable{
+    position: absolute;
+    left: 0;
+    bottom: -80px;
+    transform: scale(0.3);
+}
+
+/*==================================== AUSTRALIA =====================================*/
+
+#australia-drop{
+    position: absolute;
+    left: 775px;
+    top: 393px;
+}
+
+#australia-draggable{
+    position: absolute;
+    left: 360px;
+    bottom: 0;
+    transform: scale(0.3);
+}
+
+
+/*==================================== EUROPE =====================================*/
+
+#europe-drop{
+    position: absolute;
+    left: 460px;
+    top: 130px;
+}
+
+#europe-draggable{
+    position: absolute;
+    left: 460px;
+    bottom: 0;
+    transform: scale(0.3);
+}
+
+/*==================================== GREENLAND =====================================*/
+
+#greenland-drop{
+    position: absolute;
+    left: 360px;
+    top: 60px;
+}
+
+#greenland-draggable{
+    position: absolute;
+    left: 560px;
+    bottom: 0;
+    transform: scale(0.3);
+}
+
+/*==================================== NORTH-AMERICA =====================================*/
+
+#north-america-drop{
+    position: absolute;
+    left: 40px;
+    top: 60px;
+}
+
+#north-america-draggable{
+    position: absolute;
+    left: 560px;
+    bottom: -80px;
+    transform: scale(0.3);
+}
+
+/*==================================== SOUTH-AMERICA =====================================*/
+
+#south-america-drop{
+    position: absolute;
+    left: 260px;
+    top: 355px;
+}
+
+#south-america-draggable{
+    position: absolute;
+    left: 760px;
+    bottom: 0;
+    transform: scale(0.3);
+}
